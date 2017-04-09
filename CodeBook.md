@@ -1,5 +1,5 @@
-
-File Reference: tidydata.txt
+Description of tidydata.txt variables
+=====================================
 
 The data within this tidy data set is the mean accelerometer measurements aggregated by subject (1 to 30) and activty (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
